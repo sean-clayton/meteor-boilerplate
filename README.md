@@ -5,15 +5,16 @@ A [Meteor](https://meteor.com) app skeleton. A bit opinionated.
 
 This boilerplate uses the following meteor packages:
 
-- [coffeescript]() | Javascript dialect with fewer braces and semicolons
-- [fourseven:scss]() | Style with attitude and autoprefixer.
-- [iron:router]() | Routing specifically designed for Meteor
-- [meteor-platform]() | Include a standard set of Meteor packages in your app
-- [meteorhacks:fast-render]() | Render you app even before the DDP connection comes live. - magic?
-- [tap:i18n]() | A comprehensive internationalization solution for Meteor
-- [wolves:bitters]() | Scaffold styles, variables and structure for Bourbon projects.
-- [wolves:bourbon]() | Bourbon is a simple and lightweight mixin library for Sass.
-- [wolves:neat]() | A lightweight, semantic grid framework built on top of Bourbon.
+- coffeescript | Javascript dialect with fewer braces and semicolons
+- fourseven:scss | Style with attitude and autoprefixer.
+- iron:router | Routing specifically designed for Meteor
+- meteor-platform | Include a standard set of Meteor packages in your app
+- meteorhacks:fast-render | Render you app even before the DDP connection comes live. - magic?
+- momentjs:moment | Parse, validate, manipulate, and display dates
+- tap:i18n | A comprehensive internationalization solution for Meteor
+- wolves:bitters | Scaffold styles, variables and structure for Bourbon projects.
+- wolves:bourbon | Bourbon is a simple and lightweight mixin library for Sass.
+- wolves:neat | A lightweight, semantic grid framework built on top of Bourbon.
 
 I use this base because I always end up adding these things to my Meteor apps. I'm probably not the only one, so here it is, free to do whatever you please to it. It's ready for coffeescript and SCSS.
 
